@@ -1,0 +1,431 @@
+[SERVER] Radi na http://localhost:8080
+[INFO] 2026-06-10T14:02:34.336Z | filteri: grayscale | vreme: 334ms
+[INFO] 2026-06-10T14:02:34.851Z | filteri: grayscale | vreme: 336ms
+[INFO] 2026-06-10T14:02:35.348Z | filteri: grayscale | vreme: 269ms
+[INFO] 2026-06-10T14:02:35.751Z | filteri: grayscale | vreme: 350ms
+[INFO] 2026-06-10T14:02:36.243Z | filteri: grayscale | vreme: 271ms
+[INFO] 2026-06-10T14:02:36.631Z | filteri: grayscale | vreme: 267ms
+[INFO] 2026-06-10T14:02:37.042Z | filteri: grayscale | vreme: 295ms
+[INFO] 2026-06-10T14:02:37.463Z | filteri: grayscale | vreme: 303ms
+[INFO] 2026-06-10T14:02:37.904Z | filteri: grayscale | vreme: 266ms
+[INFO] 2026-06-10T14:02:38.309Z | filteri: grayscale | vreme: 403ms
+[INFO] 2026-06-10T14:02:38.902Z | filteri: contrast | vreme: 364ms
+[INFO] 2026-06-10T14:02:39.413Z | filteri: contrast | vreme: 285ms
+[INFO] 2026-06-10T14:02:39.832Z | filteri: contrast | vreme: 295ms
+[INFO] 2026-06-10T14:02:40.253Z | filteri: contrast | vreme: 246ms
+[INFO] 2026-06-10T14:02:40.651Z | filteri: contrast | vreme: 268ms
+[INFO] 2026-06-10T14:02:41.131Z | filteri: contrast | vreme: 274ms
+[INFO] 2026-06-10T14:02:41.530Z | filteri: contrast | vreme: 270ms
+[INFO] 2026-06-10T14:02:41.955Z | filteri: contrast | vreme: 303ms
+[INFO] 2026-06-10T14:02:42.422Z | filteri: contrast | vreme: 302ms
+[INFO] 2026-06-10T14:02:42.854Z | filteri: contrast | vreme: 291ms
+[INFO] 2026-06-10T14:02:43.284Z | filteri: flip | vreme: 295ms
+[INFO] 2026-06-10T14:02:43.710Z | filteri: flip | vreme: 273ms
+[INFO] 2026-06-10T14:02:44.094Z | filteri: flip | vreme: 278ms
+[INFO] 2026-06-10T14:02:44.506Z | filteri: flip | vreme: 288ms
+[INFO] 2026-06-10T14:02:44.906Z | filteri: flip | vreme: 368ms
+[INFO] 2026-06-10T14:02:45.484Z | filteri: flip | vreme: 601ms
+[INFO] 2026-06-10T14:02:46.301Z | filteri: flip | vreme: 304ms
+[INFO] 2026-06-10T14:02:46.755Z | filteri: flip | vreme: 323ms
+[INFO] 2026-06-10T14:02:47.209Z | filteri: flip | vreme: 540ms
+[INFO] 2026-06-10T14:02:47.949Z | filteri: flip | vreme: 601ms
+[INFO] 2026-06-10T14:02:48.807Z | filteri: laplacian | vreme: 611ms
+[INFO] 2026-06-10T14:02:49.727Z | filteri: laplacian | vreme: 635ms
+[INFO] 2026-06-10T14:02:50.652Z | filteri: laplacian | vreme: 602ms
+[INFO] 2026-06-10T14:02:51.510Z | filteri: laplacian | vreme: 530ms
+[INFO] 2026-06-10T14:02:52.312Z | filteri: laplacian | vreme: 610ms
+[INFO] 2026-06-10T14:02:53.164Z | filteri: laplacian | vreme: 548ms
+[INFO] 2026-06-10T14:02:53.984Z | filteri: laplacian | vreme: 544ms
+[INFO] 2026-06-10T14:02:54.746Z | filteri: laplacian | vreme: 478ms
+[INFO] 2026-06-10T14:02:55.437Z | filteri: laplacian | vreme: 483ms
+[INFO] 2026-06-10T14:02:56.167Z | filteri: laplacian | vreme: 532ms
+[INFO] 2026-06-10T14:02:56.912Z | filteri: swirl | vreme: 663ms
+[INFO] 2026-06-10T14:02:57.856Z | filteri: swirl | vreme: 564ms
+[INFO] 2026-06-10T14:02:58.625Z | filteri: swirl | vreme: 622ms
+[INFO] 2026-06-10T14:02:59.534Z | filteri: swirl | vreme: 543ms
+[INFO] 2026-06-10T14:03:00.305Z | filteri: swirl | vreme: 526ms
+[INFO] 2026-06-10T14:03:01.119Z | filteri: swirl | vreme: 545ms
+[INFO] 2026-06-10T14:03:01.911Z | filteri: swirl | vreme: 550ms
+[INFO] 2026-06-10T14:03:02.717Z | filteri: swirl | vreme: 559ms
+[INFO] 2026-06-10T14:03:03.481Z | filteri: swirl | vreme: 513ms
+[INFO] 2026-06-10T14:03:04.234Z | filteri: swirl | vreme: 553ms
+[INFO] 2026-06-10T14:03:05.055Z | filteri: colorizegrayscale | vreme: 543ms
+[INFO] 2026-06-10T14:03:05.806Z | filteri: colorizegrayscale | vreme: 599ms
+[INFO] 2026-06-10T14:03:06.660Z | filteri: colorizegrayscale | vreme: 550ms
+[INFO] 2026-06-10T14:03:07.429Z | filteri: colorizegrayscale | vreme: 508ms
+[INFO] 2026-06-10T14:03:08.149Z | filteri: colorizegrayscale | vreme: 444ms
+[INFO] 2026-06-10T14:03:08.775Z | filteri: colorizegrayscale | vreme: 497ms
+[INFO] 2026-06-10T14:03:09.485Z | filteri: colorizegrayscale | vreme: 524ms
+[INFO] 2026-06-10T14:03:10.224Z | filteri: colorizegrayscale | vreme: 438ms
+[INFO] 2026-06-10T14:03:10.877Z | filteri: colorizegrayscale | vreme: 449ms
+[INFO] 2026-06-10T14:03:11.556Z | filteri: colorizegrayscale | vreme: 517ms
+[INFO] 2026-06-10T14:03:12.303Z | filteri: edge_detector | vreme: 521ms
+[INFO] 2026-06-10T14:03:13.031Z | filteri: edge_detector | vreme: 494ms
+[INFO] 2026-06-10T14:03:13.714Z | filteri: edge_detector | vreme: 509ms
+[INFO] 2026-06-10T14:03:14.456Z | filteri: edge_detector | vreme: 532ms
+[INFO] 2026-06-10T14:03:15.165Z | filteri: edge_detector | vreme: 509ms
+[INFO] 2026-06-10T14:03:15.889Z | filteri: edge_detector | vreme: 590ms
+[INFO] 2026-06-10T14:03:16.700Z | filteri: edge_detector | vreme: 651ms
+[INFO] 2026-06-10T14:03:17.569Z | filteri: edge_detector | vreme: 473ms
+[INFO] 2026-06-10T14:03:18.225Z | filteri: edge_detector | vreme: 445ms
+[INFO] 2026-06-10T14:03:18.880Z | filteri: edge_detector | vreme: 542ms
+[INFO] 2026-06-10T14:03:19.618Z | filteri: flip_vertical | vreme: 502ms
+[INFO] 2026-06-10T14:03:20.315Z | filteri: flip_vertical | vreme: 533ms
+[INFO] 2026-06-10T14:03:21.143Z | filteri: flip_vertical | vreme: 637ms
+[INFO] 2026-06-10T14:03:22.075Z | filteri: flip_vertical | vreme: 494ms
+[INFO] 2026-06-10T14:03:22.820Z | filteri: flip_vertical | vreme: 591ms
+[INFO] 2026-06-10T14:03:23.629Z | filteri: flip_vertical | vreme: 581ms
+[INFO] 2026-06-10T14:03:24.409Z | filteri: flip_vertical | vreme: 541ms
+[INFO] 2026-06-10T14:03:25.223Z | filteri: flip_vertical | vreme: 544ms
+[INFO] 2026-06-10T14:03:26.024Z | filteri: flip_vertical | vreme: 614ms
+[INFO] 2026-06-10T14:03:26.871Z | filteri: flip_vertical | vreme: 485ms
+[INFO] 2026-06-10T14:03:27.587Z | filteri: jarvis | vreme: 493ms
+[INFO] 2026-06-10T14:03:28.237Z | filteri: jarvis | vreme: 630ms
+[INFO] 2026-06-10T14:03:29.035Z | filteri: jarvis | vreme: 617ms
+[INFO] 2026-06-10T14:03:29.852Z | filteri: jarvis | vreme: 593ms
+[INFO] 2026-06-10T14:03:30.666Z | filteri: jarvis | vreme: 575ms
+[INFO] 2026-06-10T14:03:31.440Z | filteri: jarvis | vreme: 701ms
+[INFO] 2026-06-10T14:03:32.334Z | filteri: jarvis | vreme: 622ms
+[INFO] 2026-06-10T14:03:33.187Z | filteri: jarvis | vreme: 590ms
+[INFO] 2026-06-10T14:03:33.982Z | filteri: jarvis | vreme: 594ms
+[INFO] 2026-06-10T14:03:34.819Z | filteri: jarvis | vreme: 636ms
+[SERVER] Radi na http://localhost:8080
+[INFO] 2026-06-10T14:04:13.565Z | filteri: grayscale | vreme: 253ms
+[INFO] 2026-06-10T14:04:13.989Z | filteri: grayscale | vreme: 269ms
+[INFO] 2026-06-10T14:04:14.389Z | filteri: grayscale | vreme: 294ms
+[INFO] 2026-06-10T14:04:14.817Z | filteri: grayscale | vreme: 311ms
+[INFO] 2026-06-10T14:04:15.278Z | filteri: grayscale | vreme: 275ms
+[INFO] 2026-06-10T14:04:15.680Z | filteri: grayscale | vreme: 273ms
+[INFO] 2026-06-10T14:04:16.083Z | filteri: grayscale | vreme: 256ms
+[INFO] 2026-06-10T14:04:16.462Z | filteri: grayscale | vreme: 262ms
+[INFO] 2026-06-10T14:04:16.843Z | filteri: grayscale | vreme: 335ms
+[INFO] 2026-06-10T14:04:17.304Z | filteri: grayscale | vreme: 292ms
+[INFO] 2026-06-10T14:04:17.724Z | filteri: contrast | vreme: 284ms
+[INFO] 2026-06-10T14:04:18.133Z | filteri: contrast | vreme: 294ms
+[INFO] 2026-06-10T14:04:18.564Z | filteri: contrast | vreme: 269ms
+[INFO] 2026-06-10T14:04:18.966Z | filteri: contrast | vreme: 267ms
+[INFO] 2026-06-10T14:04:19.387Z | filteri: contrast | vreme: 306ms
+[INFO] 2026-06-10T14:04:19.842Z | filteri: contrast | vreme: 267ms
+[INFO] 2026-06-10T14:04:20.235Z | filteri: contrast | vreme: 278ms
+[INFO] 2026-06-10T14:04:20.643Z | filteri: contrast | vreme: 282ms
+[INFO] 2026-06-10T14:04:21.062Z | filteri: contrast | vreme: 290ms
+[INFO] 2026-06-10T14:04:21.480Z | filteri: contrast | vreme: 260ms
+[INFO] 2026-06-10T14:04:21.865Z | filteri: flip | vreme: 309ms
+[INFO] 2026-06-10T14:04:22.320Z | filteri: flip | vreme: 281ms
+[INFO] 2026-06-10T14:04:22.735Z | filteri: flip | vreme: 259ms
+[INFO] 2026-06-10T14:04:23.125Z | filteri: flip | vreme: 309ms
+[INFO] 2026-06-10T14:04:23.553Z | filteri: flip | vreme: 279ms
+[INFO] 2026-06-10T14:04:23.967Z | filteri: flip | vreme: 279ms
+[INFO] 2026-06-10T14:04:24.381Z | filteri: flip | vreme: 296ms
+[INFO] 2026-06-10T14:04:24.796Z | filteri: flip | vreme: 291ms
+[INFO] 2026-06-10T14:04:25.207Z | filteri: flip | vreme: 289ms
+[INFO] 2026-06-10T14:04:25.610Z | filteri: flip | vreme: 306ms
+[INFO] 2026-06-10T14:04:26.077Z | filteri: laplacian | vreme: 305ms
+[INFO] 2026-06-10T14:04:26.521Z | filteri: laplacian | vreme: 300ms
+[INFO] 2026-06-10T14:04:26.941Z | filteri: laplacian | vreme: 257ms
+[INFO] 2026-06-10T14:04:27.310Z | filteri: laplacian | vreme: 267ms
+[INFO] 2026-06-10T14:04:27.711Z | filteri: laplacian | vreme: 266ms
+[INFO] 2026-06-10T14:04:28.087Z | filteri: laplacian | vreme: 297ms
+[INFO] 2026-06-10T14:04:28.506Z | filteri: laplacian | vreme: 311ms
+[INFO] 2026-06-10T14:04:28.922Z | filteri: laplacian | vreme: 255ms
+[INFO] 2026-06-10T14:04:29.304Z | filteri: laplacian | vreme: 263ms
+[INFO] 2026-06-10T14:04:29.695Z | filteri: laplacian | vreme: 280ms
+[INFO] 2026-06-10T14:04:30.078Z | filteri: swirl | vreme: 314ms
+[INFO] 2026-06-10T14:04:30.518Z | filteri: swirl | vreme: 308ms
+[INFO] 2026-06-10T14:04:30.951Z | filteri: swirl | vreme: 307ms
+[INFO] 2026-06-10T14:04:31.397Z | filteri: swirl | vreme: 310ms
+[INFO] 2026-06-10T14:04:31.862Z | filteri: swirl | vreme: 274ms
+[INFO] 2026-06-10T14:04:32.263Z | filteri: swirl | vreme: 324ms
+[INFO] 2026-06-10T14:04:32.725Z | filteri: swirl | vreme: 292ms
+[INFO] 2026-06-10T14:04:33.148Z | filteri: swirl | vreme: 278ms
+[INFO] 2026-06-10T14:04:33.527Z | filteri: swirl | vreme: 311ms
+[INFO] 2026-06-10T14:04:33.959Z | filteri: swirl | vreme: 267ms
+[INFO] 2026-06-10T14:04:34.352Z | filteri: colorizegrayscale | vreme: 273ms
+[INFO] 2026-06-10T14:04:34.742Z | filteri: colorizegrayscale | vreme: 246ms
+[INFO] 2026-06-10T14:04:35.124Z | filteri: colorizegrayscale | vreme: 269ms
+[INFO] 2026-06-10T14:04:35.520Z | filteri: colorizegrayscale | vreme: 285ms
+[INFO] 2026-06-10T14:04:35.934Z | filteri: colorizegrayscale | vreme: 246ms
+[INFO] 2026-06-10T14:04:36.288Z | filteri: colorizegrayscale | vreme: 267ms
+[INFO] 2026-06-10T14:04:36.687Z | filteri: colorizegrayscale | vreme: 257ms
+[INFO] 2026-06-10T14:04:37.076Z | filteri: colorizegrayscale | vreme: 248ms
+[INFO] 2026-06-10T14:04:37.430Z | filteri: colorizegrayscale | vreme: 289ms
+[INFO] 2026-06-10T14:04:37.845Z | filteri: colorizegrayscale | vreme: 260ms
+[INFO] 2026-06-10T14:04:38.212Z | filteri: edge_detector | vreme: 260ms
+[INFO] 2026-06-10T14:04:38.597Z | filteri: edge_detector | vreme: 246ms
+[INFO] 2026-06-10T14:04:38.949Z | filteri: edge_detector | vreme: 279ms
+[INFO] 2026-06-10T14:04:39.339Z | filteri: edge_detector | vreme: 254ms
+[INFO] 2026-06-10T14:04:39.689Z | filteri: edge_detector | vreme: 251ms
+[INFO] 2026-06-10T14:04:40.050Z | filteri: edge_detector | vreme: 268ms
+[INFO] 2026-06-10T14:04:40.435Z | filteri: edge_detector | vreme: 272ms
+[INFO] 2026-06-10T14:04:40.824Z | filteri: edge_detector | vreme: 288ms
+[INFO] 2026-06-10T14:04:41.237Z | filteri: edge_detector | vreme: 283ms
+[INFO] 2026-06-10T14:04:41.653Z | filteri: edge_detector | vreme: 281ms
+[INFO] 2026-06-10T14:04:42.073Z | filteri: flip_vertical | vreme: 286ms
+[INFO] 2026-06-10T14:04:42.483Z | filteri: flip_vertical | vreme: 281ms
+[INFO] 2026-06-10T14:04:42.874Z | filteri: flip_vertical | vreme: 290ms
+[INFO] 2026-06-10T14:04:43.298Z | filteri: flip_vertical | vreme: 278ms
+[INFO] 2026-06-10T14:04:43.681Z | filteri: flip_vertical | vreme: 280ms
+[INFO] 2026-06-10T14:04:44.111Z | filteri: flip_vertical | vreme: 281ms
+[INFO] 2026-06-10T14:04:44.511Z | filteri: flip_vertical | vreme: 298ms
+[INFO] 2026-06-10T14:04:44.933Z | filteri: flip_vertical | vreme: 263ms
+[INFO] 2026-06-10T14:04:45.331Z | filteri: flip_vertical | vreme: 284ms
+[INFO] 2026-06-10T14:04:45.771Z | filteri: flip_vertical | vreme: 251ms
+[INFO] 2026-06-10T14:04:46.127Z | filteri: jarvis | vreme: 326ms
+[INFO] 2026-06-10T14:04:46.569Z | filteri: jarvis | vreme: 333ms
+[INFO] 2026-06-10T14:04:47.040Z | filteri: jarvis | vreme: 298ms
+[INFO] 2026-06-10T14:04:47.474Z | filteri: jarvis | vreme: 300ms
+[INFO] 2026-06-10T14:04:47.894Z | filteri: jarvis | vreme: 305ms
+[INFO] 2026-06-10T14:04:48.325Z | filteri: jarvis | vreme: 312ms
+[INFO] 2026-06-10T14:04:48.741Z | filteri: jarvis | vreme: 302ms
+[INFO] 2026-06-10T14:04:49.167Z | filteri: jarvis | vreme: 326ms
+[INFO] 2026-06-10T14:04:49.611Z | filteri: jarvis | vreme: 332ms
+[INFO] 2026-06-10T14:04:50.074Z | filteri: jarvis | vreme: 311ms
+[SERVER] Radi na http://localhost:8080
+[INFO] 2026-06-10T14:13:26.651Z | filteri: grayscale | vreme: 298ms
+[INFO] 2026-06-10T14:13:27.077Z | filteri: grayscale | vreme: 300ms
+[INFO] 2026-06-10T14:13:27.523Z | filteri: grayscale | vreme: 243ms
+[INFO] 2026-06-10T14:13:27.905Z | filteri: grayscale | vreme: 262ms
+[INFO] 2026-06-10T14:13:28.301Z | filteri: grayscale | vreme: 258ms
+[INFO] 2026-06-10T14:13:28.680Z | filteri: grayscale | vreme: 266ms
+[INFO] 2026-06-10T14:13:29.062Z | filteri: grayscale | vreme: 286ms
+[INFO] 2026-06-10T14:13:29.470Z | filteri: grayscale | vreme: 256ms
+[INFO] 2026-06-10T14:13:29.870Z | filteri: grayscale | vreme: 320ms
+[INFO] 2026-06-10T14:13:30.341Z | filteri: grayscale | vreme: 296ms
+[INFO] 2026-06-10T14:13:30.773Z | filteri: contrast | vreme: 300ms
+[INFO] 2026-06-10T14:13:31.195Z | filteri: contrast | vreme: 277ms
+[INFO] 2026-06-10T14:13:31.603Z | filteri: contrast | vreme: 263ms
+[INFO] 2026-06-10T14:13:31.998Z | filteri: contrast | vreme: 328ms
+[INFO] 2026-06-10T14:13:32.454Z | filteri: contrast | vreme: 249ms
+[INFO] 2026-06-10T14:13:32.831Z | filteri: contrast | vreme: 302ms
+[INFO] 2026-06-10T14:13:33.259Z | filteri: contrast | vreme: 264ms
+[INFO] 2026-06-10T14:13:33.651Z | filteri: contrast | vreme: 313ms
+[INFO] 2026-06-10T14:13:34.099Z | filteri: contrast | vreme: 263ms
+[INFO] 2026-06-10T14:13:34.494Z | filteri: contrast | vreme: 269ms
+[INFO] 2026-06-10T14:13:34.886Z | filteri: flip | vreme: 261ms
+[INFO] 2026-06-10T14:13:35.289Z | filteri: flip | vreme: 276ms
+[INFO] 2026-06-10T14:13:35.699Z | filteri: flip | vreme: 271ms
+[INFO] 2026-06-10T14:13:36.110Z | filteri: flip | vreme: 312ms
+[INFO] 2026-06-10T14:13:36.548Z | filteri: flip | vreme: 301ms
+[INFO] 2026-06-10T14:13:36.972Z | filteri: flip | vreme: 256ms
+[INFO] 2026-06-10T14:13:37.342Z | filteri: flip | vreme: 290ms
+[INFO] 2026-06-10T14:13:37.763Z | filteri: flip | vreme: 267ms
+[INFO] 2026-06-10T14:13:38.154Z | filteri: flip | vreme: 321ms
+[INFO] 2026-06-10T14:13:38.620Z | filteri: flip | vreme: 473ms
+[INFO] 2026-06-10T14:13:39.329Z | filteri: laplacian | vreme: 509ms
+[INFO] 2026-06-10T14:13:40.067Z | filteri: laplacian | vreme: 463ms
+[INFO] 2026-06-10T14:13:40.801Z | filteri: laplacian | vreme: 499ms
+[INFO] 2026-06-10T14:13:41.507Z | filteri: laplacian | vreme: 553ms
+[INFO] 2026-06-10T14:13:42.283Z | filteri: laplacian | vreme: 542ms
+[INFO] 2026-06-10T14:13:43.053Z | filteri: laplacian | vreme: 528ms
+[INFO] 2026-06-10T14:13:43.875Z | filteri: laplacian | vreme: 533ms
+[INFO] 2026-06-10T14:13:44.617Z | filteri: laplacian | vreme: 573ms
+[INFO] 2026-06-10T14:13:45.425Z | filteri: laplacian | vreme: 502ms
+[INFO] 2026-06-10T14:13:46.117Z | filteri: laplacian | vreme: 480ms
+[INFO] 2026-06-10T14:13:46.817Z | filteri: swirl | vreme: 577ms
+[INFO] 2026-06-10T14:13:47.698Z | filteri: swirl | vreme: 568ms
+[INFO] 2026-06-10T14:13:48.495Z | filteri: swirl | vreme: 648ms
+[INFO] 2026-06-10T14:13:49.356Z | filteri: swirl | vreme: 631ms
+[INFO] 2026-06-10T14:13:50.276Z | filteri: swirl | vreme: 616ms
+[INFO] 2026-06-10T14:13:51.164Z | filteri: swirl | vreme: 550ms
+[INFO] 2026-06-10T14:13:51.942Z | filteri: swirl | vreme: 588ms
+[INFO] 2026-06-10T14:13:52.762Z | filteri: swirl | vreme: 565ms
+[INFO] 2026-06-10T14:13:53.555Z | filteri: swirl | vreme: 616ms
+[INFO] 2026-06-10T14:13:54.425Z | filteri: swirl | vreme: 615ms
+[INFO] 2026-06-10T14:13:55.271Z | filteri: colorizegrayscale | vreme: 502ms
+[INFO] 2026-06-10T14:13:56.052Z | filteri: colorizegrayscale | vreme: 511ms
+[INFO] 2026-06-10T14:13:56.844Z | filteri: colorizegrayscale | vreme: 610ms
+[INFO] 2026-06-10T14:13:57.711Z | filteri: colorizegrayscale | vreme: 547ms
+[INFO] 2026-06-10T14:13:58.489Z | filteri: colorizegrayscale | vreme: 644ms
+[INFO] 2026-06-10T14:13:59.359Z | filteri: colorizegrayscale | vreme: 501ms
+[INFO] 2026-06-10T14:14:00.101Z | filteri: colorizegrayscale | vreme: 556ms
+[INFO] 2026-06-10T14:14:00.897Z | filteri: colorizegrayscale | vreme: 529ms
+[INFO] 2026-06-10T14:14:01.653Z | filteri: colorizegrayscale | vreme: 547ms
+[INFO] 2026-06-10T14:14:02.437Z | filteri: colorizegrayscale | vreme: 566ms
+[INFO] 2026-06-10T14:14:03.256Z | filteri: edge_detector | vreme: 586ms
+[INFO] 2026-06-10T14:14:04.068Z | filteri: edge_detector | vreme: 593ms
+[INFO] 2026-06-10T14:14:04.909Z | filteri: edge_detector | vreme: 539ms
+[INFO] 2026-06-10T14:14:05.674Z | filteri: edge_detector | vreme: 580ms
+[INFO] 2026-06-10T14:14:06.446Z | filteri: edge_detector | vreme: 553ms
+[INFO] 2026-06-10T14:14:07.202Z | filteri: edge_detector | vreme: 511ms
+[INFO] 2026-06-10T14:14:07.928Z | filteri: edge_detector | vreme: 598ms
+[INFO] 2026-06-10T14:14:08.785Z | filteri: edge_detector | vreme: 458ms
+[INFO] 2026-06-10T14:14:09.436Z | filteri: edge_detector | vreme: 455ms
+[INFO] 2026-06-10T14:14:10.062Z | filteri: edge_detector | vreme: 466ms
+[INFO] 2026-06-10T14:14:10.726Z | filteri: flip_vertical | vreme: 552ms
+[INFO] 2026-06-10T14:14:11.501Z | filteri: flip_vertical | vreme: 601ms
+[INFO] 2026-06-10T14:14:12.336Z | filteri: flip_vertical | vreme: 530ms
+[INFO] 2026-06-10T14:14:13.071Z | filteri: flip_vertical | vreme: 567ms
+[INFO] 2026-06-10T14:14:13.875Z | filteri: flip_vertical | vreme: 555ms
+[INFO] 2026-06-10T14:14:14.686Z | filteri: flip_vertical | vreme: 585ms
+[INFO] 2026-06-10T14:14:15.507Z | filteri: flip_vertical | vreme: 675ms
+[INFO] 2026-06-10T14:14:16.504Z | filteri: flip_vertical | vreme: 592ms
+[INFO] 2026-06-10T14:14:17.340Z | filteri: flip_vertical | vreme: 559ms
+[INFO] 2026-06-10T14:14:18.136Z | filteri: flip_vertical | vreme: 540ms
+[INFO] 2026-06-10T14:14:18.893Z | filteri: jarvis | vreme: 671ms
+[INFO] 2026-06-10T14:14:19.798Z | filteri: jarvis | vreme: 653ms
+[INFO] 2026-06-10T14:14:20.680Z | filteri: jarvis | vreme: 570ms
+[INFO] 2026-06-10T14:14:21.445Z | filteri: jarvis | vreme: 591ms
+[INFO] 2026-06-10T14:14:22.255Z | filteri: jarvis | vreme: 626ms
+[INFO] 2026-06-10T14:14:23.110Z | filteri: jarvis | vreme: 624ms
+[INFO] 2026-06-10T14:14:23.941Z | filteri: jarvis | vreme: 582ms
+[INFO] 2026-06-10T14:14:24.734Z | filteri: jarvis | vreme: 619ms
+[INFO] 2026-06-10T14:14:25.573Z | filteri: jarvis | vreme: 672ms
+[INFO] 2026-06-10T14:14:26.473Z | filteri: jarvis | vreme: 815ms
+[SERVER] Radi na http://localhost:8080
+[SERVER] Radi na http://localhost:8080
+[INFO] 2026-06-12T17:58:46.295Z | filteri: grayscale | vreme: 34ms
+[INFO] 2026-06-12T17:58:46.332Z | filteri: grayscale | vreme: 28ms
+[INFO] 2026-06-12T17:58:46.361Z | filteri: contrast | vreme: 33ms
+[INFO] 2026-06-12T17:58:46.396Z | filteri: flip | vreme: 37ms
+[INFO] 2026-06-12T17:58:46.435Z | filteri: grayscale+contrast | vreme: 33ms
+[ERROR] 2026-06-12T17:58:46.472Z | Nedostaju obavezna polja
+[INFO] 2026-06-12T17:58:46.473Z | filteri: swirl | vreme: 35ms
+[INFO] 2026-06-12T17:58:46.511Z | filteri: jarvis | vreme: 37ms
+[INFO] 2026-06-12T17:58:46.550Z | filteri: grayscale+flip+contrast | vreme: 35ms
+[INFO] 2026-06-12T17:58:46.588Z | filteri: grayscale | vreme: 42ms
+[INFO] 2026-06-12T17:58:46.594Z | filteri: grayscale | vreme: 37ms
+[INFO] 2026-06-12T17:58:46.593Z | filteri: grayscale | vreme: 40ms
+[INFO] 2026-06-12T17:58:46.591Z | filteri: grayscale | vreme: 44ms
+[INFO] 2026-06-12T17:58:46.595Z | filteri: grayscale | vreme: 46ms
+[INFO] 2026-06-12T17:58:46.596Z | filteri: grayscale | vreme: 49ms
+[INFO] 2026-06-12T17:58:46.597Z | filteri: grayscale | vreme: 50ms
+[INFO] 2026-06-12T17:58:46.599Z | filteri: grayscale | vreme: 50ms
+[INFO] 2026-06-12T17:58:46.603Z | filteri: grayscale | vreme: 47ms
+[INFO] 2026-06-12T17:58:46.601Z | filteri: grayscale | vreme: 51ms
+[ERROR] 2026-06-12T17:58:46.653Z | Image data size mismatch: ocekivano 100, dobijeno 99
+[ERROR] 2026-06-12T17:58:46.654Z | Image data size mismatch: ocekivano 400, dobijeno 100
+[INFO] 2026-06-12T18:20:51.277Z | filteri: grayscale | vreme: 37ms
+[INFO] 2026-06-12T18:20:51.319Z | filteri: grayscale | vreme: 28ms
+[INFO] 2026-06-12T18:20:51.349Z | filteri: contrast | vreme: 34ms
+[INFO] 2026-06-12T18:20:51.385Z | filteri: flip | vreme: 29ms
+[INFO] 2026-06-12T18:20:51.416Z | filteri: grayscale+contrast | vreme: 33ms
+[ERROR] 2026-06-12T18:20:51.452Z | Nedostaju obavezna polja
+[INFO] 2026-06-12T18:20:51.454Z | filteri: swirl | vreme: 24ms
+[INFO] 2026-06-12T18:20:51.480Z | filteri: jarvis | vreme: 35ms
+[INFO] 2026-06-12T18:20:51.518Z | filteri: grayscale+flip+contrast | vreme: 30ms
+[INFO] 2026-06-12T18:20:51.556Z | filteri: grayscale | vreme: 39ms
+[INFO] 2026-06-12T18:20:51.556Z | filteri: grayscale | vreme: 42ms
+[INFO] 2026-06-12T18:20:51.559Z | filteri: grayscale | vreme: 41ms
+[INFO] 2026-06-12T18:20:51.557Z | filteri: grayscale | vreme: 47ms
+[INFO] 2026-06-12T18:20:51.558Z | filteri: grayscale | vreme: 48ms
+[INFO] 2026-06-12T18:20:51.552Z | filteri: grayscale | vreme: 55ms
+[INFO] 2026-06-12T18:20:51.555Z | filteri: grayscale | vreme: 54ms
+[INFO] 2026-06-12T18:20:51.558Z | filteri: grayscale | vreme: 52ms
+[INFO] 2026-06-12T18:20:51.557Z | filteri: grayscale | vreme: 55ms
+[INFO] 2026-06-12T18:20:51.560Z | filteri: grayscale | vreme: 54ms
+[ERROR] 2026-06-12T18:20:51.615Z | Image data size mismatch: ocekivano 100, dobijeno 99
+[ERROR] 2026-06-12T18:20:51.616Z | Image data size mismatch: ocekivano 400, dobijeno 100
+[INFO] 2026-06-12T18:30:38.271Z | filteri: colorizegrayscale | vreme: 675ms
+[INFO] 2026-06-12T18:30:38.271Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:39.481Z | filteri: colorizegrayscale | vreme: 656ms
+[INFO] 2026-06-12T18:30:39.481Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:39.789Z | filteri: colorizegrayscale | vreme: 666ms
+[INFO] 2026-06-12T18:30:39.789Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:40.662Z | filteri: colorizegrayscale | vreme: 520ms
+[INFO] 2026-06-12T18:30:40.662Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:40.880Z | filteri: colorizegrayscale | vreme: 533ms
+[INFO] 2026-06-12T18:30:40.880Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:41.631Z | filteri: colorizegrayscale | vreme: 446ms
+[INFO] 2026-06-12T18:30:41.631Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:41.831Z | filteri: colorizegrayscale | vreme: 485ms
+[INFO] 2026-06-12T18:30:41.831Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:42.560Z | filteri: colorizegrayscale | vreme: 525ms
+[INFO] 2026-06-12T18:30:42.560Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:42.802Z | filteri: colorizegrayscale | vreme: 447ms
+[INFO] 2026-06-12T18:30:42.802Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:43.471Z | filteri: colorizegrayscale | vreme: 499ms
+[INFO] 2026-06-12T18:30:43.471Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:43.674Z | filteri: colorizegrayscale | vreme: 469ms
+[INFO] 2026-06-12T18:30:43.674Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:44.374Z | filteri: colorizegrayscale | vreme: 549ms
+[INFO] 2026-06-12T18:30:44.374Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:44.605Z | filteri: colorizegrayscale | vreme: 521ms
+[INFO] 2026-06-12T18:30:44.605Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:45.323Z | filteri: colorizegrayscale | vreme: 501ms
+[INFO] 2026-06-12T18:30:45.323Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:45.532Z | filteri: colorizegrayscale | vreme: 463ms
+[INFO] 2026-06-12T18:30:45.532Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:46.215Z | filteri: colorizegrayscale | vreme: 404ms
+[INFO] 2026-06-12T18:30:46.215Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:46.443Z | filteri: colorizegrayscale | vreme: 543ms
+[INFO] 2026-06-12T18:30:46.443Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:47.150Z | filteri: colorizegrayscale | vreme: 495ms
+[INFO] 2026-06-12T18:30:47.150Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:47.387Z | filteri: colorizegrayscale | vreme: 523ms
+[INFO] 2026-06-12T18:30:47.387Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:48.152Z | filteri: colorizegrayscale | vreme: 373ms
+[INFO] 2026-06-12T18:30:48.152Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:48.341Z | filteri: colorizegrayscale | vreme: 446ms
+[INFO] 2026-06-12T18:30:48.341Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:48.933Z | filteri: colorizegrayscale | vreme: 408ms
+[INFO] 2026-06-12T18:30:48.933Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:49.170Z | filteri: colorizegrayscale | vreme: 461ms
+[INFO] 2026-06-12T18:30:49.170Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:49.785Z | filteri: colorizegrayscale | vreme: 435ms
+[INFO] 2026-06-12T18:30:49.785Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:50.010Z | filteri: colorizegrayscale | vreme: 437ms
+[INFO] 2026-06-12T18:30:50.010Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:50.573Z | filteri: colorizegrayscale | vreme: 448ms
+[INFO] 2026-06-12T18:30:50.573Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:50.855Z | filteri: colorizegrayscale | vreme: 405ms
+[INFO] 2026-06-12T18:30:50.855Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:51.418Z | filteri: colorizegrayscale | vreme: 419ms
+[INFO] 2026-06-12T18:30:51.418Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:51.593Z | filteri: colorizegrayscale | vreme: 429ms
+[INFO] 2026-06-12T18:30:51.593Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:52.178Z | filteri: colorizegrayscale | vreme: 389ms
+[INFO] 2026-06-12T18:30:52.178Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:52.403Z | filteri: colorizegrayscale | vreme: 407ms
+[INFO] 2026-06-12T18:30:52.403Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:52.956Z | filteri: colorizegrayscale | vreme: 500ms
+[INFO] 2026-06-12T18:30:52.956Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:53.223Z | filteri: colorizegrayscale | vreme: 359ms
+[INFO] 2026-06-12T18:30:53.223Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:53.789Z | filteri: colorizegrayscale | vreme: 384ms
+[INFO] 2026-06-12T18:30:53.789Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:53.984Z | filteri: colorizegrayscale | vreme: 447ms
+[INFO] 2026-06-12T18:30:53.984Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:54.616Z | filteri: colorizegrayscale | vreme: 378ms
+[INFO] 2026-06-12T18:30:54.616Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:54.825Z | filteri: colorizegrayscale | vreme: 406ms
+[INFO] 2026-06-12T18:30:54.825Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:55.585Z | filteri: colorizegrayscale | vreme: 412ms
+[INFO] 2026-06-12T18:30:55.585Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:30:59.492Z | filteri: colorizegrayscale | vreme: 497ms
+[INFO] 2026-06-12T18:30:59.492Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:00.426Z | filteri: colorizegrayscale | vreme: 507ms
+[INFO] 2026-06-12T18:31:00.426Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:01.318Z | filteri: colorizegrayscale | vreme: 754ms
+[INFO] 2026-06-12T18:31:01.318Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:02.586Z | filteri: colorizegrayscale | vreme: 757ms
+[INFO] 2026-06-12T18:31:02.586Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:03.888Z | filteri: colorizegrayscale | vreme: 845ms
+[INFO] 2026-06-12T18:31:03.888Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:05.248Z | filteri: colorizegrayscale | vreme: 795ms
+[INFO] 2026-06-12T18:31:05.248Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:06.569Z | filteri: colorizegrayscale | vreme: 617ms
+[INFO] 2026-06-12T18:31:06.569Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:07.891Z | filteri: colorizegrayscale | vreme: 659ms
+[INFO] 2026-06-12T18:31:07.891Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:09.191Z | filteri: colorizegrayscale | vreme: 518ms
+[INFO] 2026-06-12T18:31:09.191Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:10.342Z | filteri: colorizegrayscale | vreme: 547ms
+[INFO] 2026-06-12T18:31:10.342Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:11.591Z | filteri: colorizegrayscale | vreme: 695ms
+[INFO] 2026-06-12T18:31:11.591Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:12.835Z | filteri: colorizegrayscale | vreme: 442ms
+[INFO] 2026-06-12T18:31:12.835Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:13.802Z | filteri: colorizegrayscale | vreme: 447ms
+[INFO] 2026-06-12T18:31:13.802Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:14.644Z | filteri: colorizegrayscale | vreme: 429ms
+[INFO] 2026-06-12T18:31:14.644Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:15.509Z | filteri: colorizegrayscale | vreme: 489ms
+[INFO] 2026-06-12T18:31:15.509Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:16.402Z | filteri: colorizegrayscale | vreme: 421ms
+[INFO] 2026-06-12T18:31:16.402Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:17.293Z | filteri: colorizegrayscale | vreme: 430ms
+[INFO] 2026-06-12T18:31:17.293Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:18.116Z | filteri: colorizegrayscale | vreme: 468ms
+[INFO] 2026-06-12T18:31:18.116Z | Session cache saved: SID-8CT5MF7ZU
+[INFO] 2026-06-12T18:31:19.020Z | filteri: colorizegrayscale | vreme: 395ms
+[INFO] 2026-06-12T18:31:19.020Z | Session cache saved: SID-8CT5MF7ZU

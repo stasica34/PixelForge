@@ -1,0 +1,61 @@
+{
+  "name": "pixel-forge-mms",
+  "version": "1.0.0",
+  "description": "Distributed image processing system - Stasa Kostic 19184",
+  "main": "dist/main.js",
+  "scripts": {
+    "clean": "rimraf dist",
+    "prebuild": "npm run clean",
+    "build": "tsc && npm run copy-gui",
+    "start": "electron .",
+    "package": "electron-builder",
+    "copy-gui": "node -e \"const fs=require('fs'); fs.mkdirSync('dist/src/gui', {recursive:true}); fs.cpSync('src/gui', 'dist/src/gui', {recursive:true});\""
+  },
+  "keywords": [
+    "encryption",
+    "desktop",
+    "electron"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^22.15.21",
+    "concurrently": "latest",
+    "electron": "^36.9.5",
+    "electron-builder": "^26.0.12",
+    "playwright-electron": "^0.5.0",
+    "rimraf": "^6.1.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "buffer-crc32": "^1.0.0",
+    "chokidar": "^4.0.3",
+    "gif.js": "^0.2.0",
+    "gifuct-js": "^2.1.2",
+    "omggif": "^1.0.10",
+    "sweetalert2": "^11.26.17"
+  },
+  "build": {
+    "appId": "com.mms.pixelforge",
+    "productName": "PixelForge_19184",
+    "directories": {
+      "output": "release"
+    },
+    "win": {
+      "target": "portable",
+      "icon": "src/gui/slike/framework.png"
+    },
+    "files": [
+      "dist/**/*",
+      "src/gui/**/*",
+      "node_modules/**/*"
+    ],
+    "asar": true,
+    "asarUnpack": [
+      "**/node_modules/sharp/**/*",
+      "**/node_modules/canvas/**/*"
+    ]
+  }
+}
